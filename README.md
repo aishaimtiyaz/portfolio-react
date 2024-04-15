@@ -62,6 +62,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+https://drive.google.com/file/d/14oOWoVALhuENNb4yq5zEhwKveHZhD6PU/view?usp=sharing
+https://drive.google.com/file/d/1zRjZ0I-uZpbdhnZp6k_i7W7ZGgdnd97q/view?usp=drive_link
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
